@@ -1,0 +1,14 @@
+Brute-force
+Collision (hashes)
+
+Sym: 3DES, DES, MARS, IDEA, AES/Rinjdael (), RC2, RC4, RC5, RC6, Blowfish, Twofish, Threefish, Serpent
+Ataques posibles: Brute force
+
+Asym: RSA (64-4096), ElGamal, Diffie-Hellman, ECC (Elliptic Curve, 15 types)
+Ataques posibles: RSA (factorización de n)
+
+Hashing: SHA0, SHA1, SHA2, SHA3, MD6, MD5, MD4, MD2, bcrypt, crypt, scrypt
+
+https://www.globalsign.com/en-sg/blog/glossary-of-cryptographic-algorithms/
+
+https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
